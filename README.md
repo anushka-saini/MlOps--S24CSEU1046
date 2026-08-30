@@ -1,5 +1,7 @@
 # SCSE3040 --- Lab Practicals
 
+Disclaimer: AI tools were used for minor assistance with debugging, clarification, and understanding concepts. The implementation and work in this repository were completed and verified by me.
+
 **Machine Learning Operations · B.Tech CSE 5th Semester · Bennett University
 · Session 2026-27**
 
