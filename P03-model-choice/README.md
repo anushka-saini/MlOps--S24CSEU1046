@@ -103,3 +103,6 @@ it, it trains faster, and it breaks less.
 
 *Open `P03.ipynb` in Jupyter and work through it top to bottom.
 The notebook contains everything in this handout, plus the code.*
+## AI Assistance Disclosure
+
+AI assistance was used during this practical for conceptual explanations, debugging, and guidance on interpreting the model evaluation results. The submitted code and model-selection decisions were reviewed and understood by me, and I am able to explain and modify the work submitted.
